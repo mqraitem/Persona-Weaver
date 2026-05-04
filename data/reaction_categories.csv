@@ -1,0 +1,9 @@
+id,name,description
+0,Refusal,Refuses to answer the question.
+1,Deflection,Redirects or dismisses the question.
+2,Hesitation,Hesitates about whether to answer.
+3,Compliance,Answers the question directly.
+4,Volunteering,"Answers fully and adds extra details, even unasked ones."
+5,Playful/Subversive,"Replies in a teasing, sarcastic, or ironic way."
+6,Hostile,"Responds with aggression, sarcasm, or dismissal of the asker."
+7,Meta,Comments on the act of being questioned itself instead of answering.
